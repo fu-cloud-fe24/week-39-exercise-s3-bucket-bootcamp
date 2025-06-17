@@ -14,6 +14,6 @@
 4. Aktivera statisk webbhosting för din bucket och ställ in indexdokumentet till index.html.
 5. Öppna webbadressen till din S3-bucket för att se din React-applikation live.
 
-## Övning 3
+## Övning 3 - Todo API
 1. Bygg en frontend i React till ditt Todo API där du använder API:et i din applikation.
 2. Deploya din frontend till AWS S3.
